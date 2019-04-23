@@ -1,0 +1,10 @@
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\bin\Debug\SuperheroWars.exe.config
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\bin\Debug\SuperheroWars.exe
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\bin\Debug\SuperheroWars.pdb
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\obj\Debug\SuperheroWars.csproj.CoreCompileInputs.cache
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\obj\Debug\SuperheroWars.csproj.CopyComplete
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\obj\Debug\SuperheroWars.exe
+C:\Users\Bogdy\source\repos\SuperheroWars\SuperheroWars\obj\Debug\SuperheroWars.pdb
